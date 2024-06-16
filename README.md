@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/kelvin-hey/equilux-black">
-  <img src="https://img.shields.io/github/license/kelvin-hey/equilux-black">
-  <img src="https://img.shields.io/github/repo-size/kelvin-hey/equilux-black">
+  <img src="https://img.shields.io/github/last-commit/kelvin-hey/tcc-ads-ifpr">
+  <img src="https://img.shields.io/github/license/kelvin-hey/tcc-ads-ifpr">
+  <img src="https://img.shields.io/github/repo-size/kelvin-hey/tcc-ads-ifpr">
 </p>
 
 <p align="center">
